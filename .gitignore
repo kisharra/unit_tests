@@ -1,7 +1,14 @@
-# Dependency directories
-.node_modules/
+# Node.js dependencies
+/node_modules/
 
-# Coverage
-.coverage/
+# Test coverage reports
+/coverage/
 
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.idea/
+.vscode/
 
